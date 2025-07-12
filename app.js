@@ -3,6 +3,6 @@ document.addEventListener('click',function() {
    const heading=document.querySelector('h1')
    heading.style.color='purple'
    heading.style.backgroundColor='blue'
-   console.log(heading.style.color)
+   console.log(heading.style.backgroundColor)
     
 })
