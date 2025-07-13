@@ -5,7 +5,7 @@ document.addEventListener('keypress',function() {
     heading.style.backgroundColor='blue'
    console.log(heading.style.backgroundColor)
    console.log('removing First Child')
-   document.querySelector('#contain-all').firstElementChild.remove();
+   //document.querySelector('#contain-all').firstElementChild.remove();
 
     
 })
