@@ -1,5 +1,5 @@
 document.addEventListener('keypress',function() {
-   // // console.log('clicked')
+    console.log('clicked')
     const heading=document.querySelector('h1')
    heading.style.color='purple'
     heading.style.backgroundColor='blue'
